@@ -42,4 +42,5 @@ Program developed within the framework of the course "Algorithmic and Bases of P
 - Sandratra RASENDRASOA
 
 Project supervised by Geraldine DEL MONDO and Nicolas DELESTRE, teachers.
+
 Date of delivery: 05/01/16
