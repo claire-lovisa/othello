@@ -16,19 +16,19 @@ Enter "./bin/Othello tournoi blanc" to play the computer against the computer wi
 
 The prerequisites for a good use of the program, in standard mode:
 - when it is the human player's turn, he is led to enter the coordinates of the pawn he wishes to place:
-     - the line, between 1 and 8
-     - the column, between 1 and 8
+  - the line, between 1 and 8
+  - the column, between 1 and 8
 
 The prerequisites for a good use of the program, in tournament mode:
 - a shot will be expressed by a string of characters of length 3:
-     - the first character will represent the column with a lowercase letter between 'a' and 'h';
-     - the second character will represent the line with a digit between '1' and '8';
-     - the third character will be the unix carriage return ('\ n').
+  - the first character will represent the column with a lowercase letter between 'a' and 'h';
+  - the second character will represent the line with a digit between '1' and '8';
+  - the third character will be the unix carriage return ('\ n').
 For example if the program wants to play the shot e5, it will write in the standard output the string of characters "e5 \ n";
 - the final state of the part will be expressed by a string ending with the unix carriage return ('\ n'):
-         - "white \ n" if the whites have won; '
-         - "black \ n" if the blacks have won;
-         - "null \ n" if the part is null.
+  - "white \ n" if the whites have won; '
+  - "black \ n" if the blacks have won;
+  - "null \ n" if the part is null.
 - when the program can not play, it will use the string "pass \ n" instead of the hit it could have played.
 
 -------------------------------------------------- -------------------------------------------------- -----------------------------------
