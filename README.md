@@ -34,11 +34,12 @@ For example if the program wants to play the shot e5, it will write in the stand
 -------------------------------------------------- -------------------------------------------------- -----------------------------------
 
 Program developed within the framework of the course "Algorithmic and Bases of Programming" in ASI3 at the INSA of Rouen by:
-Gautier DARCHEN
-Romain JUDIC
-Riadh KILANI
-Claire LOVISA
-Sandratra RASENDRASOA
+
+- Gautier DARCHEN
+- Romain JUDIC
+- Riadh KILANI
+- Claire LOVISA
+- Sandratra RASENDRASOA
 
 Project supervised by Geraldine DEL MONDO and Nicolas DELESTRE, teachers.
 Date of delivery: 05/01/16
